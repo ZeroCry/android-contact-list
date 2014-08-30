@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/jackson-core-2.3.2-b341943ece5fbf7013016e5d120ad14353426608.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-4b01763fb463252193ba90d12fbd1f4a460752ea.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/1.0.1.RELEASE/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/gson-2.2.4-0b0eee12b129203c7329e894132b7fcc2ffd70f5.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2-7737f22ca6bd2c4006530846305799a195147476.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.2/9e025bc5b84968e7d6ac765e660a70b3e5a87432/universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/jackson-databind-2.3.2-9335be60cc0cb5db37e999dc5d560768a806f7a4.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-d61d562a0586f9684c8e6273207e5055fc5bd267.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33"/>
+    <item
+        dex="/Users/arielrey/AndroidStudioProjects/ContactList/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-616ff550d5ea2aa2963a2518eba555a6748df5a8.jar"
+        jar="/Users/arielrey/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da"/>
+
+</pre-dex-items>
